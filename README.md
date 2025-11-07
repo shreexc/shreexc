@@ -1,3 +1,9 @@
+<style>
+  a{
+    text-decoration: none;
+  }
+</style>
+
 <h1 align="center">Hi, I'm Shreejal Shah</h1>
 <h3 align="center">I build stuff, check my repositories to know more.</h3>
 
