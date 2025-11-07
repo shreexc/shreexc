@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shreejal Shah</h1>
 <h3 align="center">I build stuff, check my repositories to know more.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><a href="https://shreejalshah.com.np">Connect with me</a></h3>
 <p align="left">
 </p>
 
