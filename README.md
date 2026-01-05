@@ -1,4 +1,4 @@
-<h1 align="center">Lads, I'm Shreejal Shah</h1>
+<h1 align="center">console.log("Hello World, I'm Shreejal Shah")</h1>
 <h3 align="center">I build stuff, check my repositories to know more.</h3>
 
 <h3 align="left"><a href="https://shreejalshah.com.np">Connect with me</a></h3>
